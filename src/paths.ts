@@ -1,3 +1,5 @@
+// This file contains the paths for the app. It is used to generate the URLs for the app
+
 const paths = {
   home() {
     return "/";
